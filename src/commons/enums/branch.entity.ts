@@ -1,0 +1,7 @@
+export enum Branch {
+    MATROH ='MATROH',
+    TENTHOFRAMADAN = 'TENTHOFRAMADAN',
+    _6OCTOBER = '_6OCTOBER',
+    DEFAULT="DEFAULT"
+  }
+  
